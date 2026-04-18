@@ -1,2 +1,2 @@
 ## Sha
-All details 
+All details
